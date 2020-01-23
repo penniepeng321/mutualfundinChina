@@ -10,3 +10,4 @@
 ### Performance persistence
 ### Performance association with fund asset
 
+Codes are primarily SAS and R programs. Data are mainly from Wind and CSMAR.
