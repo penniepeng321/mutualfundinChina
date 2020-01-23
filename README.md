@@ -3,15 +3,16 @@
 ## Actively managed stock mutual funds
 
 + Brinson performance decomposition model for all such funds
-+ Asset allocation for all such funds
-### Fund benchmark performance
-### Regression-based fund performance
-### Model sensitivity to time window choice, third-party data sources credibility, model complexity, estimated interim parameters
++ Asset allocation for all such funds, asset allocation persistence, proportion of significantly positive asset allocation
++ Fund benchmark performance, appropriateness of benchmark as baseline for performance
++ Regression-based fund performance measures
++ Model sensitivity to time window choice, third-party data sources credibility, model complexity, estimated interim parameters
 
 ## Monetary funds
-### Performance persistence
-### Performance association with fund asset
++ Performance persistence
++ Performance association with fund asset
 
+Note:
 Codes are primarily SAS and R programs. Data are mainly from Wind and CSMAR.
 
 Code 0.R - XIII.sas include whole process of building Brinson decomposition model for mutual fund in China,
