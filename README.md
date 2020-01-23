@@ -15,5 +15,5 @@
 Note:
 Codes are primarily SAS and R programs. Data are mainly from Wind and CSMAR.
 
-Code 0.R - XIII.sas include whole process of building Brinson decomposition model for mutual fund in China,
+Code 0.R - XVIII.sas include whole process of building Brinson decomposition model for mutual fund in China,
 from data downloading, cleaning, organizing to model building and data analysis.
